@@ -1,0 +1,10 @@
+/Users/namhyeongseog/Desktop/NEAR/_LUDIUM/PART2/FT/ft/target/debug/deps/near_account_id-b3ce273e042eeb3c.rmeta: /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/lib.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/errors.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/borsh.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/serde.rs
+
+/Users/namhyeongseog/Desktop/NEAR/_LUDIUM/PART2/FT/ft/target/debug/deps/libnear_account_id-b3ce273e042eeb3c.rlib: /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/lib.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/errors.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/borsh.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/serde.rs
+
+/Users/namhyeongseog/Desktop/NEAR/_LUDIUM/PART2/FT/ft/target/debug/deps/near_account_id-b3ce273e042eeb3c.d: /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/lib.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/errors.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/borsh.rs /Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/serde.rs
+
+/Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/lib.rs:
+/Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/errors.rs:
+/Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/borsh.rs:
+/Users/namhyeongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/near-account-id-0.14.0/src/serde.rs:

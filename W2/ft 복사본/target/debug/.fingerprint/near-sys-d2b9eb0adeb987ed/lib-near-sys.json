@@ -1,0 +1,1 @@
+{"rustc":631956316838095215,"features":"[]","target":4927594367761543910,"profile":8344124108420085910,"path":5261526240522223322,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/near-sys-d2b9eb0adeb987ed/dep-lib-near-sys"}}],"rustflags":["-C","link-args=-s"],"metadata":14904885344401450229,"config":2202906307356721367,"compile_kind":0}

@@ -1,0 +1,1 @@
+{"rustc":631956316838095215,"features":"[]","target":456433028138942822,"profile":8344124108420085910,"path":15287822196109149545,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/dyn-clone-205d58cd60602d01/dep-lib-dyn-clone"}}],"rustflags":["-C","link-args=-s"],"metadata":10939357194659760099,"config":2202906307356721367,"compile_kind":0}
