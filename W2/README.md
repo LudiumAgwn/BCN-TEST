@@ -23,7 +23,7 @@ echo $CONTRACT_NAME
 ### 3. initialize fungible_token.wasm
 
 ```
-near call $CONTRACT_NAME new '{"owner_id": "'$CONTRACT_NAME'", "total_supply": "1000000000000000", "metadata": { "spec": "ft-1.0.0", "name": "LULULToken", "symbol": "lulul", "decimals": 8 }}' --accountId $CONTRACT_NAME
+near call $CONTRACT_NAME new '{"owner_id": "'$CONTRACT_NAME'", "total_supply": "1000000000000000", "metadata": { "spec": "ft-1.0.0", "name": "Agwn", "symbol": "AG", "decimals": 8 }}' --accountId $CONTRACT_NAME
 
 near view $CONTRACT_NAME ft_metadata
 ```
@@ -31,14 +31,14 @@ near view $CONTRACT_NAME ft_metadata
 ### 4. account to register: ludium_lecturer.testnet
 
 ```
-❯ near call $CONTRACT_NAME storage_deposit '{"account_id": "ludium_lecturer.testnet"}' --accountId ludium_lecturer.testnet --amount 0.00125
+❯ near call $CONTRACT_NAME storage_deposit '{"account_id": "agwn.testnet"}' --accountId agwn.testnet --amount 0.00125
 ```
 
 ### 5. transfer fungible_token.wasm
 
 ```
 
-❯ near call $CONTRACT_NAME ft_transfer '{"receiver_id": "'ludium_lecturer.testnet'", "amount": "10000000000"}' --accountId $CONTRACT_NAME --amount 0.000000000000000000000001
+❯ near call $CONTRACT_NAME ft_transfer '{"receiver_id": "'agwn.testnet'", "amount": "10000000000"}' --accountId $CONTRACT_NAME --amount 0.000000000000000000000001
 
 ```
 
